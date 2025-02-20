@@ -29,8 +29,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
-
-## Projeto
-
-O projeto é um site desktop de convite para evento com formulário para geração do convite personalizado.
-Esse é um desafio prático da formação Full-Stack, um dos conteúdos disponíveis para alunos da Rocketseat. 
